@@ -1,0 +1,33 @@
+https://github.com/platform-acceleration-lab
+
+
+Course URL:
+https://singapore-2018-07.pal.pivotal.io/PCF API endpoint: https://api.sys.evans.pal.pivotal.io
+PCF web UI: https://login.sys.evans.pal.pivotal.ioCohort identifier: 349802323Pairing app: https://parrit.cfapps.io/pal-singapore-2018-07
+password: keepitsimpleAWS key ID: AKIAIA6KVDDXHPDRKPDA
+AWS secret access key: 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 (edited)
+
+
+https://content.pivotal.io/case-studies
+https://docs.cloudfoundry.org/devguide/services/sharing-instances.html
+OAuth - https://spring.io/guides/tutorials/spring-boot-oauth2/
+PCF Sizer for capacity planning: http://pcfsizer.pivotal.io/#!/sizing/vsphere/1.12/small
+Spring Cloud Task https://spring.io/projects/spring-cloud-task
+Here is a example project using spring cloud task on PCF: https://github.com/joshlong/cf-task-demo
+
+At retro we mentioned Pivotal Academy, which has a both free courses as well as the schedule for many of the instructor led courses that Pivotal offers. You can sign up for an account and check them out here: https://academy.pivotal.io/new-account
+
+https://prerequisites.pal.pivotal.io/tools/advanced-gradle/index.html
+PCF Scheduler: https://docs.pivotal.io/pcf-scheduler/1-1/
+
+Spring Cloud for .NET clients - https://steeltoe.io/
+steeltoe.io
+Steeltoe OSS
+Cloud Native .NET Applications - Friend of Spring Boot, Spring Cloud, and Cloud Foundry.
+
+Spring Cloud for .NET clients - https://steeltoe.io/
+steeltoe.io
+Steeltoe OSS
+
+Bijoy Choudhury [2:27 PM]
+https://plugins.cloudfoundry.org/
